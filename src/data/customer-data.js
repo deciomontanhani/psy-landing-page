@@ -3,7 +3,7 @@ export default [
     title: 'Melhor forma de cuidar de mim e da minha família',
     content:
       'Depois de conhecer o Psy App, estive melhor comigo mesmo, melhorei muito no meu trabalho e vida pessoal',
-    customerName: 'Décio Montanhani',
+    customerName: 'Bruno Cortez',
     customerTitle: 'Desenvolvedor Mobile',
     customerImage: 'https://placeimg.com/150/150/people'
   },
