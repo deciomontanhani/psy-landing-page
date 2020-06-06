@@ -1,26 +1,26 @@
 export default [
   {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+    title: 'Melhor forma de cuidar de mim e da minha família',
     content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'Jane Doe',
-    customerTitle: 'Director of Research and Data',
+      'Depois de conhecer o Psy App, estive melhor comigo mesmo, melhorei muito no meu trabalho e vida pessoal',
+    customerName: 'Décio Montanhani',
+    customerTitle: 'Desenvolvedor Mobile',
     customerImage: 'https://placeimg.com/150/150/people'
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+    title: 'Algo inovador que mudou a minha vida!',
     content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'John Doe',
-    customerTitle: 'Director of Research and Data',
+      'Com os acompanhamentos diários sobre minhas emoções, consigo acompanhar o meu progresso e ver o quanto já evolui!',
+    customerName: 'Vitor Ferraz',
+    customerTitle: 'Software Engineer',
     customerImage: 'https://placeimg.com/150/150/people'
   },
   {
-    title: 'Lorem ipsum dolor sit amet, consectetur adipiscing',
+    title: 'Muita facilidade ao marcar consultas a hora que eu posso!',
     content:
-      'Eu lobortis elementum nibh tellus molestie nunc non blandit massa. Sit amet consectetur adipiscing elit duis.',
-    customerName: 'Jane Smith',
-    customerTitle: 'Director of Research and Data',
+      'Muitas vezes só tenho tempo em horários alternativos. Com o Psy App, posso marcar consulta nos melhores horários pra mim.',
+    customerName: 'Pedro Xudre',
+    customerTitle: 'CEO',
     customerImage: 'https://placeimg.com/150/150/people'
   }
 ];

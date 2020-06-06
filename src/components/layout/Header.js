@@ -10,25 +10,25 @@ const Header = () => (
         <div className="w-12 mr-3">
           <LogoIcon />
         </div>
-        Lander
+        Psy App
       </div>
       <div className="flex mt-4 sm:mt-0">
         <AnchorLink className="px-4" href="#features">
-          Features
+          Funcionalidades
         </AnchorLink>
         <AnchorLink className="px-4" href="#services">
-          Services
+          Curiosidades
         </AnchorLink>
-        <AnchorLink className="px-4" href="#stats">
+        {/* <AnchorLink className="px-4" href="#stats">
           Stats
-        </AnchorLink>
+        </AnchorLink> */}
         <AnchorLink className="px-4" href="#testimonials">
-          Testimonials
+          Fundadores
         </AnchorLink>
       </div>
-      <div className="hidden md:block">
+      {/* <div className="hidden md:block">
         <Button className="text-sm">Start Free Trial</Button>
-      </div>
+      </div> */}
     </div>
   </header>
 );
