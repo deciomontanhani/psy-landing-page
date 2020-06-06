@@ -47,7 +47,7 @@ export default () => (
             <h3 className="text-3xl font-semibold leading-tight">Consultas Online</h3>
             <p className="mt-8 text-xl font-light leading-relaxed">
               Faça consultas de forma online com os melhores profissionais do Brasil, e com muita
-              segurança sobre seus dados
+              segurança sobre seus dados.
             </p>
           </div>
         }
@@ -62,7 +62,7 @@ export default () => (
             </h3>
             <p className="mt-8 text-xl font-light leading-relaxed">
               Cadastre suas emoções ao decorrer do dia e acompanhe seu progresso através do seu
-              histórico, que você também pode compartilhá-lo com o profissional escolhido
+              histórico, que você também pode compartilhá-lo com o profissional escolhido.
             </p>
           </div>
         }
