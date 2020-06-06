@@ -89,10 +89,10 @@ export default () => (
             <StatsBox primaryText="100%" secondaryText="Segura" />
           </div>
           <div className="w-full sm:w-1/3">
-            <StatsBox primaryText="100%" secondaryText="intuitiva" />
+            <StatsBox primaryText="100%" secondaryText="Intuitiva" />
           </div>
           <div className="w-full sm:w-1/3">
-            <StatsBox primaryText="0,00%" secondaryText="Burocracia" />
+            <StatsBox primaryText="Zero" secondaryText="Burocracia" />
           </div>
         </div>
       </div>
